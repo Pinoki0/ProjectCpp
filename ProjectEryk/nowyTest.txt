@@ -1,9 +1,4 @@
-1.Ile to 2+2-1?;
-1.5;
-2.7;
-3.2;
-4.3;
-4;
+
 Najszybsze zwierze to:;
 1. Krowa;
 2. Owca;
